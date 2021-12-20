@@ -1,0 +1,21 @@
+body {
+    background-color: #d3d3d3;
+}
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+    color: #000000;
+}
